@@ -1,0 +1,30 @@
+{
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact",
+  "uz": "Uzbek",
+  "ru": "Russian",
+  "en": "English",
+  "businessQualityPackaging": "High-quality packaging for your business",
+  "contactUs": "Contact us",
+  "prices": "Prices",
+  "homeAboutCompany": "Our company was founded in 2015 and specializes in the production of corrugated boxes, color-printed packaging, labels, booklets, and flyers. We offer a full cycle of services — from design development to finished product delivery — allowing clients to save time and get everything in one place. We produce packaging of any complexity and size — from single-layer to five-layer boxes, with or without printing, made to individual order. The main goal of our company is to create high-quality, convenient, and aesthetic packaging solutions that highlight the individuality of your brand. We value reliability, precision, and deadlines, ensuring every delivery is completed under contract and on time. Each year, we improve our technologies and expand our capabilities to offer clients even higher quality and more favorable cooperation terms.",
+  "whyChooseUs": "Why choose us",
+  "ownProductionTitle": "In-house production",
+  "ownProductionDesc": "We control the entire process — from raw materials to the finished box. This ensures consistent quality and precise deadlines.",
+
+  "designPrintTitle": "Design and printing",
+  "designPrintDesc": "We create unique packaging designs and perform printing of any complexity directly at our facility.",
+
+  "fastReliableTitle": "Fast and reliable",
+  "fastReliableDesc": "We meet deadlines regardless of order size. We work accurately, without delays or quality compromises.",
+
+  "bestPricesTitle": "Affordable prices",
+  "bestPricesDesc": "We produce without intermediaries, allowing us to offer excellent quality at a fair cost.",
+
+  "contractWorkTitle": "Contract-based work",
+  "contractWorkDesc": "Each order is officially documented — with clear terms, deadlines, and a guarantee of results.",
+
+  "qualityGrowthTitle": "Quality and growth",
+  "qualityGrowthDesc": "We use modern technologies and eco-friendly materials, constantly improving our service and product quality."
+}

@@ -1,0 +1,30 @@
+{
+  "home": "Asosiy",
+  "about": "Biz haqimizda",
+  "contact": "Bog'lanish",
+  "uz": "O'zbekcha",
+  "ru": "Руский",
+  "en": "English",
+  "businessQualityPackaging": "Biznesingiz uchun sifatli qadoqlar",
+  "contactUs": "Biz bilan bog'lanish",
+  "prices": "Narxlar",
+  "homeAboutCompany": "Kompaniyamiz 2015-yilda tashkil etilgan bo‘lib, gofrokorobkalar, rangli chop etilgan qadoqlar, etiketkalar, bukletlar va fleyerlar ishlab chiqarishga ixtisoslashgan. Biz dizayn ishlab chiqishdan tayyor mahsulotgacha bo‘lgan to‘liq xizmat tsiklini taklif etamiz, bu esa mijozlarga vaqtni tejash va barcha jarayonlarni bir joyda amalga oshirish imkonini beradi. Biz istalgan murakkablikdagi va o‘lchamdagi qadoqlarni — bir qavatdan besh qavatgacha bo‘lgan, chop etilgan yoki chop etilmagan, individual buyurtma asosida ishlab chiqaramiz. Kompaniyamizning asosiy maqsadi — sifatli, qulay va estetik qadoqlash yechimlarini yaratishdir, ular sizning brendingizning o‘ziga xosligini ta’kidlaydi. Biz ishonchlilik, aniqlik va muddatlarga ahamiyat beramiz, shuning uchun har bir yetkazib berish shartnoma asosida va o‘z vaqtida amalga oshiriladi. Har yili texnologiyalarni takomillashtirib, imkoniyatlarimizni kengaytiramiz, mijozlarimizga yanada yuqori sifat va foydali hamkorlik sharoitlarini taqdim etish uchun.",
+  "whyChooseUs": "Nima uchun aynan biz",
+  "ownProductionTitle": "O'z ishlab chiqarishimiz",
+  "ownProductionDesc": "Butun jarayonni nazorat qilamiz — xomashyodan tayyor qutigacha. Bu barqaror sifat va aniq muddatlarni kafolatlaydi.",
+
+  "designPrintTitle": "Dizayn va bosma",
+  "designPrintDesc": "O'ziga xos qadoqlash ko‘rinishini yaratamiz va har qanday murakkablikdagi bosmani ishlab chiqarishda bajaramiz.",
+
+  "fastReliableTitle": "Tez va ishonchli",
+  "fastReliableDesc": "Buyurtma hajmidan qat’i nazar, muddatlarga rioya qilamiz. Aniqlik, kechikishsiz va sifatdan chekinmasdan ishlaymiz.",
+
+  "bestPricesTitle": "Arzon narxlar",
+  "bestPricesDesc": "Vositasiz ishlab chiqaramiz, shu sababli yuqori sifatni maqbul narxda taklif qilamiz.",
+
+  "contractWorkTitle": "Shartnoma asosida ish",
+  "contractWorkDesc": "Har bir buyurtmani rasmiy ravishda rasmiylashtiramiz — aniq shartlar, muddatlar va natija kafolati bilan.",
+
+  "qualityGrowthTitle": "Sifat va rivojlanish",
+  "qualityGrowthDesc": "Zamonaviy texnologiyalar va ekologik materiallardan foydalanamiz, xizmat va mahsulot sifatini doimiy ravishda oshiramiz."
+}
