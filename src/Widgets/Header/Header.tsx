@@ -18,9 +18,9 @@ export const Header = () => {
   };
 
   useEffect(() => {
-    const timeoutId = setTimeout(() => runIntersectionAnimation(".anim"), 100);
+    const timeoutId = setTimeout(() => runIntersectionAnimation(".anim"), 200);
     return () => clearTimeout(timeoutId);
-  }, [t]);
+  }, [t, opened]);
 
   return (
     <header className="flex items-center gap-3xl py-xl px-2xl fixed top-[0] z-50 bg-white w-full anim lg:px-6xl">

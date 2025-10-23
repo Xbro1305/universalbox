@@ -26,5 +26,57 @@
   "contractWorkDesc": "Har bir buyurtmani rasmiy ravishda rasmiylashtiramiz — aniq shartlar, muddatlar va natija kafolati bilan.",
 
   "qualityGrowthTitle": "Sifat va rivojlanish",
-  "qualityGrowthDesc": "Zamonaviy texnologiyalar va ekologik materiallardan foydalanamiz, xizmat va mahsulot sifatini doimiy ravishda oshiramiz."
+  "qualityGrowthDesc": "Zamonaviy texnologiyalar va ekologik materiallardan foydalanamiz, xizmat va mahsulot sifatini doimiy ravishda oshiramiz.",
+  "ourClients": "Bizning mijozlarimiz",
+  "home.about": {
+    "title": "Biz haqimizda",
+    "text1": "Universal Box - 2015-yilda tashkil etilgan bo‘lib, o‘tgan davr mobaynida sifatli qadoqlash mahsulotlari va poligrafiya xizmatlarini taqdim etuvchi ishonchli ishlab chiqaruvchi sifatida o‘z o‘rnini mustahkamlab bordi.",
+    "text2": "Bizning asosiy faoliyatimiz — gofrokorobkalar, rangli bosma korobkalar, etiketkalar, bukletlar va flyerlar ishlab chiqarishdan iborat.",
+    "text3": "Biz mijozlarga har xil o‘lcham va shakldagi qadoqlarni taklif qilamiz. Mahsulotlarimiz:",
+    "list1": "1 qavatdan 5 qavatgacha bo‘lgan gofrokartonlardan tayyorlanadi",
+    "list2": "Rangli bosma (printli) va oddiy printsiz variantlarda ishlab chiqiladi",
+    "list3": "Mijoz buyurtmasiga ko‘ra (pod zakaz) istalgan dizayn va o‘lchamda tayyorlanadi"
+  },
+  "home.production": {
+    "title": "Ishlab chiqarish",
+    "text1": "Bizda dizayndan tortib tayyor mahsulotgacha bo‘lgan barcha jarayonlar bitta korxonada amalga oshiriladi.",
+    "text2": "Bu esa mijozlar uchun vaqt va xarajatni tejaydi — barcha ishni bizda yakunlash mumkin.",
+    "text3": "Kompaniyamiz dizaynerlari mijozlar bilan yaqindan hamkorlikda ishlaydi, tayyor dizayn asosida yoki yangi loyiha sifatida yechimlar taklif etadi.",
+    "text4": "Ishlab chiqarish jarayonlari zamonaviy uskunalarda amalga oshiriladi. Har bir bosqichda sifat nazorati o‘tkaziladi.",
+    "text5": "Biz mahsulotlarni belgilangan muddatda, tez, sifatli va arzon narxlarda yetkazib beramiz."
+  },
+  "home.cooperation": {
+    "title": "Hamkorlik",
+    "text1": "Har bir buyurtma shartnoma asosida amalga oshiriladi.",
+    "text2": "Mijozlarimizga uzoq muddatli, o‘zaro manfaatli hamkorlikni taklif etamiz. Kelgusida kelishuv asosida yanada qulay va sifatli xizmat ko‘rsatish imkoniyatlari yaratiladi.",
+    "text3": "Bizning qadriyatlarimiz:",
+    "list1": "Sifat – har bir mahsulotda mukammallikka intilamiz",
+    "list2": "Tezkorlik – buyurtmalarni aytilgan muddatda yetkazamiz",
+    "list3": "Moslashuvchanlik – har bir mijoz uchun individual yondashuv",
+    "list4": "Ishonch – shartnoma asosida kafolatlangan xizmat"
+  },
+  "contacts": {
+    "title": "Biz bilan bog'lanish",
+    "addressLabel": "Manzil:",
+    "address": "UNIVERSAL BOX",
+    "phonesLabel": "Telefon raqamlar:",
+    "socialLabel": "Ijtimoiy tarmoqlarimiz:",
+    "developerLabel": "Dasturchi:",
+    "developerName": "Akhmadjon Sharifov",
+    "company": "«Universal Box» MCHJ"
+  },
+
+  "honest": {
+    "title": "Bizda hammasi haqqoniy!",
+    "p1": "“UNIVERSAL BOX” MCHJ faoliyati va mahsulotlarining barchasi rasmiy sertifikatlar bilan tasdiqlangan. Bizning gofra karton qutilarimiz O‘zbekiston Respublikasi “UzTest” davlat markazi tomonidan berilgan Muvofiqlik sertifikatiga ega.",
+    "p2": "Bu hujjat mahsulotlarimizning:",
+    "list1": "milliy va xalqaro standartlarga to‘liq mosligini,",
+    "list2": "sifat va xavfsizlik talablariga javob berishini,",
+    "list3": "ishlab chiqarish jarayoni nazorat ostida ekanini tasdiqlaydi.",
+    "cert": "📄 Sertifikat: № UZ.SMT.01.0079.102025292",
+    "valid": "📅 Amal qilish muddati: 02.11.2023 – 02.11.2026",
+    "org": "🏢 Tasdiqlovchi organ: “UzTest” DM, O‘zbekiston Respublikasi",
+    "p3": "Biz mijozlarimizga ishonchli, sertifikatlangan va sifatli mahsulot yetkazib beramiz.",
+    "end": "Shu sababli – bizda hammasi haqqoniy!"
+  }
 }

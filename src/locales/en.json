@@ -1,6 +1,6 @@
 {
   "home": "Home",
-  "about": "About",
+  "about": "About us",
   "contact": "Contact",
   "uz": "Uzbek",
   "ru": "Russian",
@@ -26,5 +26,56 @@
   "contractWorkDesc": "Each order is officially documented — with clear terms, deadlines, and a guarantee of results.",
 
   "qualityGrowthTitle": "Quality and growth",
-  "qualityGrowthDesc": "We use modern technologies and eco-friendly materials, constantly improving our service and product quality."
+  "qualityGrowthDesc": "We use modern technologies and eco-friendly materials, constantly improving our service and product quality.",
+  "ourClients": "Our cliens",
+  "home.about": {
+    "title": "About us",
+    "text1": "Universal Box was founded in 2015 and has established itself as a reliable manufacturer of high-quality packaging products and printing services.",
+    "text2": "Our main activity includes the production of corrugated boxes, color-printed boxes, labels, booklets, and flyers.",
+    "text3": "We offer packaging in various sizes and shapes. Our products:",
+    "list1": "Are made from corrugated cardboard with 1 to 5 layers",
+    "list2": "Come in both color-printed and plain (non-printed) options",
+    "list3": "Can be custom-made with any design and size according to the client’s order"
+  },
+  "home.production": {
+    "title": "Production",
+    "text1": "All processes, from design to finished product, are carried out within one facility.",
+    "text2": "This saves clients time and costs — everything can be completed in one place.",
+    "text3": "Our designers work closely with clients, offering solutions based on existing designs or developing new projects.",
+    "text4": "Production processes are performed using modern equipment, with quality control at every stage.",
+    "text5": "We deliver products on time — fast, high-quality, and at affordable prices."
+  },
+  "home.cooperation": {
+    "title": "Cooperation",
+    "text1": "Each order is executed under a formal contract.",
+    "text2": "We offer our clients long-term and mutually beneficial cooperation. In the future, we aim to create even more convenient and high-quality service opportunities.",
+    "text3": "Our values:",
+    "list1": "Quality — striving for excellence in every product",
+    "list2": "Speed — delivering orders within the agreed deadlines",
+    "list3": "Flexibility — an individual approach to each client",
+    "list4": "Trust — guaranteed service under contract"
+  },
+  "contacts": {
+    "title": "Contact us",
+    "addressLabel": "Address:",
+    "address": "UNIVERSAL BOX",
+    "phonesLabel": "Phone numbers:",
+    "socialLabel": "Our social networks:",
+    "developerLabel": "Developer:",
+    "developerName": "Akhmadjon Sharifov",
+    "company": "LLC «Universal Box»"
+  },
+  "honest": {
+    "title": "Everything is Transparent Here!",
+    "p1": "All activities and products of “UNIVERSAL BOX” LLC are officially certified. Our corrugated boxes are approved by the State Certification Center “UzTest” of the Republic of Uzbekistan.",
+    "p2": "This certificate confirms that our products:",
+    "list1": "fully comply with national and international standards,",
+    "list2": "meet all quality and safety requirements,",
+    "list3": "are produced under strict quality control.",
+    "cert": "📄 Certificate: № UZ.SMT.01.0079.102025292",
+    "valid": "📅 Valid period: 02.11.2023 – 02.11.2026",
+    "org": "🏢 Issued by: “UzTest” State Center, Republic of Uzbekistan",
+    "p3": "We deliver reliable, certified, and high-quality products to our customers.",
+    "end": "That’s why — everything is transparent here!"
+  }
 }
