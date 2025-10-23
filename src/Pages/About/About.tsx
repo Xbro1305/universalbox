@@ -1,4 +1,4 @@
-import * as assets from "@/pages/Home/assets";
+import * as assets from "../Home/assets";
 import { useEffect } from "react";
 import { useTranslation } from "react-i18next";
 
